@@ -23,6 +23,7 @@ npm install mongodb
 ## Assignment Overview
 
 This week focuses on MongoDB fundamentals including:
+
 - Creating and connecting to MongoDB databases
 - CRUD operations (Create, Read, Update, Delete)
 - MongoDB queries and filters
@@ -46,6 +47,12 @@ Complete all the exercises in this assignment and push your code to GitHub using
 - `Week1-Assignment.md`: Detailed assignment instructions
 - `insert_books.js`: Script to populate your MongoDB database with sample book data
 
+## 🖼️ MongoDB Compass Screenshot
+
+Below is a screenshot showing the `plp_bookstore` database and the `books` collection:
+
+![MongoDB Compass Screenshot](\images\screenshot.png)
+
 ## Requirements
 
 - Node.js (v18 or higher)
@@ -56,4 +63,4 @@ Complete all the exercises in this assignment and push your code to GitHub using
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
